@@ -5,6 +5,7 @@
 )](https://www.instagram.com/_keltonxs_/)
 
 ![Kelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeltonSousa&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeltonSousa&layout=compact&theme=gruvbox)
 
 ### Tecnologias que uso no meu dia
 
@@ -15,4 +16,3 @@
 </div><br>
 
 "Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário."
-
